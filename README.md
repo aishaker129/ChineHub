@@ -50,7 +50,7 @@
 
 <ol>
     <li> Clone or download the repository:
-        <p> <code> git clone https://github.com/aishaker129/CineHub.git </code> </p>zip </a> </p>
+        <p> <code> git clone https://github.com/aishaker129/CineHub.git </code> </p>
     </li>
     <li> Open a terminal and create a virtual environment (recommended):
         <p> <code> pip install virutalenv </code></p>
