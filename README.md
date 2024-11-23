@@ -21,8 +21,7 @@
 <ol> 
 
 <li> Clone or download the repository:
-    <p> <code> git clone https://github.com/mahfuz1703/CineHub.git </code> </p>
-    <p> or download the <a href="https://github.com/mahfuz1703/CineHub/archive/refs/heads/main.zip"> zip </a> </p>
+    <p> <code> git clone https://github.com/aishaker129/ChineHub.git </code> </p>
 
 </li>
 
@@ -51,8 +50,7 @@
 
 <ol>
     <li> Clone or download the repository:
-        <p> <code> git clone https://github.com/mahfuz1703/CineHub.git </code> </p>
-        <p> or download the <a href="https://github.com/mahfuz1703/CineHub/archive/refs/heads/main.zip"> zip </a> </p>
+        <p> <code> git clone https://github.com/aishaker129/CineHub.git </code> </p>zip </a> </p>
     </li>
     <li> Open a terminal and create a virtual environment (recommended):
         <p> <code> pip install virutalenv </code></p>
